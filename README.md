@@ -1,2 +1,2 @@
 # String_Calculator
-String Calculator with Add method which accepts strings in different format.
+String Calculator in with Add method which accepts strings in different format.Implemented it in Python 3.5
